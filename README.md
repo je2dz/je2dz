@@ -3,7 +3,7 @@
 <h2>My Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/je2dz/je2dz)
+  - [Creating a SOC with Honeynet within Microsoft Azure](https://github.com/je2dz/Azure-SOC)
 
 <h2> 🤳 Connect with me:</h2>
 
