@@ -1,9 +1,12 @@
-<h1>Hi, I'm Jedd! Cybersecurity Professional</h1>
+<h1>Hi, I'm Jedd! <br/><a href="https://www.linkedin.com/in/jeddsteen/">Cybersecurity Professtional</a></h1>
 
 <h2>My Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a SOC with Honeynet within Microsoft Azure](https://github.com/je2dz/Azure-SOC)
+  
+- <b>Active Directory Home Lab</b>
+  - [Oracle VirtualBox running Active Directory](https://)
 
 <h2> Connect with me:</h2>
 
