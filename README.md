@@ -15,7 +15,14 @@
 - ITIL 4 Foundation CB
 - ECES (EC-Council Certified Encryption Specialist)
 - Cybersecurity Analyst (Leveld Careers)
-    
+
+<h2>Badges & Skills:</h2>
+
+- [TryHackMe Profile](https://tryhackme.com/p/je2dz)
+  - Learning Paths Completed:
+    - SOC Level 1
+    - Pre-Security
+    - Intro to Cybersecurity
 
 <h2> Connect with me:</h2>
 
