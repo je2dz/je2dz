@@ -8,6 +8,13 @@
 - <b>Active Directory Home Lab</b>
   - [Oracle VirtualBox running Active Directory](https://)
 
+
+<h2>Certifications:</h2>
+
+- [Credly](https://www.credly.com/users/jedd-steen/badges)
+  - CompTIA & (ISC)2
+    
+
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="jeddsteen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
