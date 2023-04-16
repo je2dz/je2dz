@@ -11,8 +11,10 @@
 
 <h2>Certifications:</h2>
 
-- [Credly](https://www.credly.com/users/jedd-steen/badges)
-  - CompTIA & (ISC)2
+- [CompTIA & (ISC)2](https://www.credly.com/users/jedd-steen/badges)
+- ITIL 4 Foundation CB
+- ECES (EC-Council Certified Encryption Specialist)
+- Cybersecurity Analyst (Leveld Careers)
     
 
 <h2> Connect with me:</h2>
