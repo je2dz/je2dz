@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jedd! <br/><a href="https://www.linkedin.com/in/jeddsteen/">Cybersecurity Professtional</a></h1>
+<h1>Hi, I'm Jedd! <br/><a href="https://www.linkedin.com/in/jeddsteen/">Cybersecurity Professional</a></h1>
 
 <h2>My Projects:</h2>
 
