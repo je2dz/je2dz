@@ -8,6 +8,9 @@
 - <b>Active Directory Home Lab</b>
   - [Integrated Active Directory Evironment in VirtualBox](https://github.com/je2dz/VB-Active-Directory)
 
+- <b>Cybersecurity Detection Lab</b>
+  - In progress...
+
 
 <h2>Certifications:</h2>
 
