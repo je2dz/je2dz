@@ -6,7 +6,7 @@
   - [Creating a SOC with Honeynet within Microsoft Azure](https://github.com/je2dz/Azure-SOC)
   
 - <b>Active Directory Home Lab</b>
-  - [Oracle VirtualBox running Active Directory]((https://github.com/je2dz))
+  - [Oracle VirtualBox running Active Directory](https://github.com/je2dz/VB-Active-Directory)
 
 
 <h2>Certifications:</h2>
